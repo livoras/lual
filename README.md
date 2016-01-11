@@ -1,2 +1,2 @@
 # lual
-Take a Peek of Lua.
+Take a Peek at Lua.
